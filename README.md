@@ -59,7 +59,7 @@ Retail Sales Dataset: The primary dataset used for this analysis is the " " file
 ### Dashboard
  The screenshot is below, but I highly recommend interacting with the dashboard's text box features so you can view all of the charts: 
 
-[Tableau](https://public.tableau.com/views/AmazonConsumerBehavior/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+https://public.tableau.com/views/RetailSalesDatasetAnalysis/Dashboard1?:language=en-US&:sid=C377FF33AD5D44B9866685CD1E1990A9-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 <img width="2198" height="1698" alt="Dashboard 2 (2)" src="https://github.com/user-attachments/assets/67ccecba-25d2-488b-b17b-fe25fb4fe972" />
 
