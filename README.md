@@ -24,7 +24,7 @@ Insights and Recommendations are provided on the following North Star Metrics:
 * **Average Basket Size (ABS):** (Total Number of Items Purchased/Total Number of Transactions) each month.
 
 ### Data Source
-Retail Sales Dataset: The primary dataset used for this analysis is the "retail_sales_dataset.csv " file, containing synthetic data about sales from Zip & Zap.
+Retail Sales Dataset: The primary dataset used for this analysis is the "retail_sales_dataset.csv" file, containing synthetic data about sales from Zip & Zap.
 
 ### Tools Used
 * **MySQL**
