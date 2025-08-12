@@ -38,16 +38,16 @@ Retail Sales Dataset: The primary dataset used for this analysis is the " " file
 * September has the least total revenue.
 
 #### **Monthly Transactions:**
-* May has the most total transactions
-* Septembers has the least total transactions
+* May has the most total transactions.
+* Septembers has the least total transactions.
 
 #### **Monthly Average Transaction Value:**
-* February had the highest ATV
-* September had the least ATV
+* February had the highest ATV.
+* September had the least ATV.
 
  #### **Monthly Average Basket Size:**
-* March had the highest ABS
-* December has the lowest ABS
+* March had the highest ABS.
+* December has the lowest ABS.
 
 Here's a snippet of code that pertains to the previous bullet:
 
