@@ -34,26 +34,26 @@ Retail Sales Dataset: The primary dataset used for this analysis is the " " file
 ### Summary of Insights
 
 #### **Monthly Revenue:**
-* May had the most total revenue; September had the least total revenue
-* The total revenue remained similar throughout the Summer months
-* Electronics brought in the highest total revenue
+* May had the most total revenue; September had the least total revenue.
+* The total revenue remained similar throughout the Summer months.
+* Electronics brought in the highest total revenue.
 
 
 #### **Monthly Transactions:**
-* May had the most total transactions; September had the least total transactions
-* Clothing brought in the highest total transactions
+* May had the most total transactions; September had the least total transactions.
+* Clothing brought in the highest total transactions.
 
  
 #### **Monthly Average Transaction Value:**
 * February had the highest ATV; September had the least ATV.
-* ATV is the highest during the Winter months and the Summer Months
-* Beauty products have the highest ATV
+* ATV is the highest during the Winter months and the Summer Months.
+* Beauty products have the highest ATV.
 
 
  #### **Monthly Average Basket Size:**
 * March had the highest ABS; December had the lowest ABS.
-* ABS remained relatively consistent between September and November
-* Clothing products have the highest ABS
+* ABS remained relatively consistent between September and November.
+* Clothing products have the highest ABS.
 
   
 ### Dashboard
@@ -65,7 +65,6 @@ Retail Sales Dataset: The primary dataset used for this analysis is the " " file
 
 
 ### Recommendations and Next Steps
-* Investigate what issues unsatisifed customers have with Customer Service Responsiveness and implement changes based on frequent issues that are reported. 
-* Continue to maintain competitive pricing and emphasize pricing in marketing strategy to push potential customers away from competitors
-* To improve user engagement and overall satisfaction, enhance personalized recommendation systems by reviewing the customer data quality/volume that influences Machine Learning (ML) Models and also look into improving ML algorithms being used (collaborative-filtering, content-based filtering, hybrid models)
-* Since trusting review accuracy is also likely to lead to more user engagement and overall satisfaction, look into improving AI systems that detect fake reviews as well as making sure that human moderators are equipped with the best tools to spot fake reviews 
+* The highest and lowest revenue occured in the same months that had the highest and lowest transactions, so look into increasing the number of transactions of customers by implementing loyalty programs, referral programs, email reminders, etc. Also consider possible price-adjustments during those months if appropriate.
+* Since September had the lowest ATV and the lowest Revenue, consider strategies to boost ATV such as upselling, placing items near the checkout, and encouraging employees to be enthusastic and attentive to customers' needs.
+* Since Electronics bring in the most revenue, consider placing more focus on the promotion of products within this category.  
