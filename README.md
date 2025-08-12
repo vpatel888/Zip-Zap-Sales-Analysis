@@ -35,7 +35,7 @@ Retail Sales Dataset: The primary dataset used for this analysis is the " " file
 
 #### **Monthly Revenue:**
 * May is the month has the most total revenue. 
-* Septemeber has the least total revenue.
+* September has the least total revenue.
 
 #### **Monthly Transactions:**
 * May has the most total transactions
