@@ -61,7 +61,8 @@ Retail Sales Dataset: The primary dataset used for this analysis is the " " file
 
 https://public.tableau.com/views/RetailSalesDatasetAnalysis/Dashboard1?:language=en-US&:sid=C377FF33AD5D44B9866685CD1E1990A9-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-<img width="2198" height="1698" alt="Dashboard 2 (2)" src="https://github.com/user-attachments/assets/67ccecba-25d2-488b-b17b-fe25fb4fe972" />
+<img width="2798" height="1314" alt="Dashboard 1" src="https://github.com/user-attachments/assets/061b8cff-f0bd-4791-a9b2-e21d2d124c84" />
+
 
 ### Recommendations and Next Steps
 * Investigate what issues unsatisifed customers have with Customer Service Responsiveness and implement changes based on frequent issues that are reported. 
