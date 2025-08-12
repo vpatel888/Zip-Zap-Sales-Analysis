@@ -33,21 +33,22 @@ Retail Sales Dataset: The primary dataset used for this analysis is the " " file
 
 ### Summary of Insights
 
-#### **Monthly Revenue:**
-* May is the month has the most total revenue. 
-* September has the least total revenue.
+#### **Monthly Revenue & Monthly Transactions:**
+* May had the most total revenue; September had the least total revenue
+* There appears to be peak in revenue during December, possibly due to the holiday season.
+* The monthly revenue does appear to have a similar patterns to the monthly transactions graph. March and September had the lowest total revenue and the lowest total transactions, while May and October had the highes monthly revenue and highest total transactions. 
+
 
 #### **Monthly Transactions:**
-* May has the most total transactions.
-* Septembers has the least total transactions.
+* May had the most total transactions; September had the least total transactions
+* There appears to be peak in total transactions during December, possibly due to the holiday season.
+* The monthly transactions does appear to have a similar patterns to the monthly revenue graph. March and September had the lowest total transactions and the lowest total revenue, while May and October had the highest monthly transactions and highest total revenue. 
 
 #### **Monthly Average Transaction Value:**
-* February had the highest ATV.
-* September had the least ATV.
+* February had the highest ATV; September had the least ATV.
 
  #### **Monthly Average Basket Size:**
-* March had the highest ABS.
-* December has the lowest ABS.
+* March had the highest ABS; December had the lowest ABS.
 
 Here's a snippet of code that pertains to the previous bullet:
 
