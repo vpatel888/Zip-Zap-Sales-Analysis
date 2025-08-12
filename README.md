@@ -24,7 +24,7 @@ Insights and Recommendations are provided on the following North Star Metrics:
 * **Average Basket Size (ABS):** (Total Number of Items Purchased/Total Number of Transactions) each month.
 
 ### Data Source
-Retail Sales Dataset: The primary dataset used for this analysis is the "AmazonCustomerBehaviorSurvey.csv" file, containing synthetic data about the sales from
+Retail Sales Dataset: The primary dataset used for this analysis is the " " file, containing synthetic data about sales from Zip & Zap.
 
 ### Tools Used
 * **MySQL**
@@ -33,18 +33,21 @@ Retail Sales Dataset: The primary dataset used for this analysis is the "AmazonC
 
 ### Summary of Insights
 
-#### **CSAT (Customer Satisfaction Score):**
-##### **Score: 51.33% (percentage of customers satsifed with Amazon overall)**
-* The top 3 aspects satisfied customers appreciate: Competitive Prices (1), Wide Product Selection (2), Product Recommendations (3).
-* The top 3 areas unsatisfied customers want improved: Customer Service Responsiveness (1), Product Quality and Accuracy (2), Reducing Packaging Waste (3).
-* Customers who view recommendations as accurate tend to have a higher customer satisfaction score (CSAT). The Pearson Correlation Coefficient is 0.5140, which is generally a moderate positive correlation. 
-* Customers who value reviews in their purchasing decisions tend to have higher customer satisfaction score (CSAT). The Pearson Correlation Coefficient is 0.4023, which is generally a moderate positive correlation. 
+#### **Monthly Revenue:**
+* May is the month has the most total revenue. 
+* Septemeber has the least total revenue.
 
-#### **Personalized Recommendation Accuracy:**
-##### **Score: 39.37% (percentage of customers who view personalized recommendations as accurate)**
-* Customers who claim to get more frequent recommendations tend to view recommendations as more accurate. The Pearson Correlation Coefficient is 0.4379, which is generally a moderate positive correlation. 
-* Customers who explore multiple pages of search results view recommendations with higher accuracy than those who only explore one page.
-* Customers who view recommendations as accurate are more likely to add products to their cart while browsing than those who don't view recommendations as accurate.
+#### **Monthly Transactions:**
+* May has the most total transactions
+* Septembers has the least total transactions
+
+#### **Monthly Average Transaction Value:**
+* February had the highest ATV
+* September had the least ATV
+
+ #### **Monthly Average Basket Size:**
+* March had the highest ABS
+* December has the lowest ABS
 
 Here's a snippet of code that pertains to the previous bullet:
 
